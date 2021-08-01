@@ -1,0 +1,29 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(0, 0, 0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    top: 15%;
+    background: linear-gradient(to right, rgb(38, 93, 197), rgb(115, 69, 69));
+}
+h1 {
+    font: 600 3.5em 'Open Sans', sans-serif;
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+    font: 900 1em 'Open Sans', sans-serif;
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
